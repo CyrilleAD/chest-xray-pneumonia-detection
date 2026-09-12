@@ -73,7 +73,7 @@ def main():
         print("✅ Push réussi!")
         print(f"Sortie: {push_output}")
         print("\n🎉 Votre projet propre est maintenant sur GitHub!")
-        print("🔗 URL: https://github.com/BenLe302/chest-xray-pneumonia-detection-clean")
+        print("🔗 URL: https://github.com/CyrilleAD/chest-xray-pneumonia-detection-clean")
         
         # Afficher un résumé des fichiers trackés
         print("\n📋 Fichiers trackés dans le repository:")
